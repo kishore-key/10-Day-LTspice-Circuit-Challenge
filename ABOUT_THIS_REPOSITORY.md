@@ -1,0 +1,1 @@
+Hey guys I am electronics and communication engineering student in SSN college of engineering. And I am always eager to learn something new and a CAD tool enthusiast. The following repository shares you the various analog circuits siimulated on LTspice and it has the .asc files you can try it on you own.
