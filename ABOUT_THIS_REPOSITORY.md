@@ -11,18 +11,18 @@ All `.asc` files are included — feel free to explore, modify, and simulate the
 
 ## 📘 Challenge Overview
 
-| Day  | Circuit Title                              | Description                              |
-|------|--------------------------------------------|------------------------------------------|
-| Day 1 | Common Emitter Amplifier                  | Basic BJT amplifier                       |
-| Day 2 | Op-Amp RC Low Pass Filter                 | Active LPF with op-amp                    |
-| Day 3 | Active Low Pass Filter                    | Enhanced LPF design                       |
-| Day 4 | Greinacher Voltage Doubler                | AC to DC conversion using diodes & caps   |
-| Day 5 | Cockcroft-Walton Multiplier               | High-voltage multiplier circuit           |
-| Day 6 | Analog Multiplier (AD633)                 | Analog signal multiplication              |
-| Day 7 | Log Amplifier                             | Op-amp log function using diodes          |
-| Day 8 | AM Envelope Detector                      | AM signal demodulation                    |
-| Day 9 | Precision Full-Wave Rectifier             | Op-amp based accurate rectifier           |
-| Day 10| Gilbert Cell Multiplier                   | Transistor-based analog multiplier        |
+| Day  | Circuit Title                              | Description                                  |
+|------|--------------------------------------------|----------------------------------------------|
+| Day 1 | Common Emitter Amplifier                  | BJT amplifier with voltage gain              |
+| Day 2 | RC Phase Shift Oscillator                 | Oscillator using RC network and BJT          |
+| Day 3 | Active Low Pass Filter                    | Op-amp based low-pass filter                 |
+| Day 4 | Half Wave Voltage Doubler                 | Voltage doubling using diodes & capacitors   |
+| Day 5 | Cockcroft-Walton Multiplier               | High-voltage generation using diode-capacitor stages |
+| Day 6 | Analog Multiplier using AD633             | Multiplication of two analog signals         |
+| Day 7 | Logarithmic Amplifier                     | Log function using op-amp and diode          |
+| Day 8 | Envelope Detector                         | Demodulates AM signal using diode & capacitor|
+| Day 9 | Precision Full Wave Rectifier             | Accurate full-wave rectification using op-amps|
+| Day 10| Gilbert Cell Multiplier                   | Analog multiplier using transistor differential pairs |
 
 ---
 
