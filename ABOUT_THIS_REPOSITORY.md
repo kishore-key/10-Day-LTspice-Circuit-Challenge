@@ -11,18 +11,18 @@ All `.asc` files are included — feel free to explore, modify, and simulate the
 
 ## 📘 Challenge Overview
 
-| Day  | Circuit Title                              | Description                                  |
-|------|--------------------------------------------|----------------------------------------------|
-| Day 1 | Common Emitter Amplifier                  | BJT amplifier with voltage gain              |
-| Day 2 | RC Phase Shift Oscillator                 | Oscillator using RC network and BJT          |
-| Day 3 | Active Low Pass Filter                    | Op-amp based low-pass filter                 |
-| Day 4 | Half Wave Voltage Doubler                 | Voltage doubling using diodes & capacitors   |
-| Day 5 | Cockcroft-Walton Multiplier               | High-voltage generation using diode-capacitor stages |
-| Day 6 | Analog Multiplier using AD633             | Multiplication of two analog signals         |
-| Day 7 | Logarithmic Amplifier                     | Log function using op-amp and diode          |
-| Day 8 | Envelope Detector                         | Demodulates AM signal using diode & capacitor|
-| Day 9 | Precision Full Wave Rectifier             | Accurate full-wave rectification using op-amps|
-| Day 10| Gilbert Cell Multiplier                   | Analog multiplier using transistor differential pairs |
+| Day  | Circuit Title                                | Description                              |
+|------|----------------------------------------------|------------------------------------------|
+| Day 1 | Common Emitter Amplifier                    | Amplifies input signal using BJT         |
+| Day 2 | Op-Amp Based RC Low Pass Filter             | Filters out high-frequency noise         |
+| Day 3 | Active Low Pass Filter                      | Op-amp-based enhanced low-pass filter    |
+| Day 4 | Greinacher Voltage Doubler                  | Converts AC to higher DC voltage         |
+| Day 5 | Cockcroft-Walton Voltage Multiplier         | Generates high DC voltage from AC input  |
+| Day 6 | Analog Multiplier using AD633               | Multiplies two analog input signals      |
+| Day 7 | Logarithmic Amplifier                       | Produces log-scaled output using op-amp  |
+| Day 8 | AM Envelope Detector                        | Demodulates AM signals to extract audio  |
+| Day 9 | Precision Full-Wave Rectifier               | Accurate full-wave rectification using op-amp |
+| Day 10| Gilbert Cell Multiplier                     | Transistor-based four-quadrant multiplier|
 
 ---
 
@@ -41,5 +41,10 @@ All `.asc` files are included — feel free to explore, modify, and simulate the
 1. Download [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/10-days-ltspice-challenge.git
-   
+   git clone https://github.com/kishore-key/10-Day-LTspice-Circuit-Challenge.git
+   ```
+3. Open any `.asc` file in LTspice and simulate the circuit!
+
+---
+
+Enjoy simulating and learning! If you find this helpful, don't forget to ⭐ the repo!
